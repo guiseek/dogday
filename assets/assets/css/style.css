@@ -2296,7 +2296,7 @@ img.wp-smiley {
     -webkit-border-radius: 100px;
        -moz-border-radius: 100px;
             border-radius: 100px;
-    background: url("assets/assets/images/rs-default.png") repeat scroll 0 0 red;
+    background: url("../images/rs-default.png") repeat scroll 0 0 red;
 }
 
 .image-lightbox:hover .image-button {
